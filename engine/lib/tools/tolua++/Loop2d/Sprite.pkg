@@ -1,0 +1,37 @@
+class Sprite : public cocos2d::CCSprite {
+public:
+	// Creating sprite
+	Sprite* spriteWithFile(const char *pszFileName);
+	static Sprite* spriteWithFrame(const char *frameName);
+	
+	// Menupulating Hierarchy
+	void addChild(CCNode *pChild);
+	void addChild(CCNode *pChild, int zOrder);
+	void addChild(CCNode *pChild, int zOrder, int tag);
+	
+	// Properties
+	//tolua_readonly tolua_property
+	tolua_property float scale;
+	tolua_property float scaleX;
+	tolua_property float scaleY;
+	tolua_property float skewX;
+	tolua_property float skewY;
+	tolua_property float rotation;
+	tolua_property bool isVisible;
+	
+	tolua_property float x;
+	tolua_property float y;
+	tolua_property cocos2d::CCPoint position;
+	
+	tolua_property float width;
+	tolua_property float height;
+	
+	tolua_property int tag;
+	
+	cocos2d::CCAction *runAction(cocos2d::CCAction* action);
+	
+	// Sprite Sheet
+	static void loadSheet(string plistFilename);
+	static void loadSheet(string plistFilename, string imageFilename);
+};
+

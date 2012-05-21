@@ -1,0 +1,4 @@
+class Label : public Sprite {
+public:
+	static Label* newLabel(string text, float x, float y, string fontName = "");	
+};

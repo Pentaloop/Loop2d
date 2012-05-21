@@ -1,0 +1,18 @@
+class Scene : public CCScene {
+public:
+	static Scene* newScene();
+	void addChild(CCNode *pChild);
+	void addChild(CCNode *pChild, int zOrder);
+	void addChild(CCNode *pChild, int zOrder, int tag);
+	
+	void schedule(lua_State* L, lua_Object obj);
+	void schedule(lua_State* L, lua_Object obj, float delay);
+	
+	void onEnter(lua_State* L);
+	void onExit(lua_State* L);
+	void onEnterTransitionComplete(lua_State* L);
+	
+	//tolua_property lua_Function onEnter;
+
+
+};

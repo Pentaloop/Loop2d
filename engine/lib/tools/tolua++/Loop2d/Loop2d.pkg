@@ -1,0 +1,21 @@
+// Set ToLua++ defaults
+TOLUA_PROPERTY_TYPE(loop2d);
+
+
+$pfile "Loop2d/Action.pkg"
+$pfile "Loop2d/Button.pkg"
+//$pfile "Audio.pkg"
+$pfile "Loop2d/Director.pkg"
+$pfile "Loop2d/Label.pkg"
+$pfile "Loop2d/Layer.pkg"
+$pfile "Loop2d/Log.pkg"
+//$pfile "Physics.pkg"
+$pfile "Loop2d/Scene.pkg"
+$pfile "Loop2d/ScrollLayer.pkg"
+$pfile "Loop2d/Sprite.pkg"
+$pfile "Loop2d/Screen.pkg"
+//$pfile "System.pkg"
+
+
+$pfile "Loop2d/Geometry.pkg"
+

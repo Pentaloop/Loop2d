@@ -1,0 +1,9 @@
+class Screen {
+public:
+	static cocos2d::CCPoint getCenterPoint();
+	static cocos2d::CCSize getSize();
+
+	tolua_readonly tolua_property static cocos2d::CCPoint centerPoint;
+	tolua_readonly tolua_property static cocos2d::CCSize size;
+	
+};

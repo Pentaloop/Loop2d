@@ -1,0 +1,10 @@
+class Scene;
+
+class Director
+{
+public:
+	static void showScene(Scene* aScene, string transition="", float duration=0);
+	static void clearMemoryCache();
+};
+
+

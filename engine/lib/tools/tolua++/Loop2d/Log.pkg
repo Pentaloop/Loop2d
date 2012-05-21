@@ -1,0 +1,7 @@
+class Log
+{
+public:
+	static void write(const char * pszFormat);
+};
+
+

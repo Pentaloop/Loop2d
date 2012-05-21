@@ -1,0 +1,19 @@
+class Button : public Sprite {
+public:
+    static Button* newButton(lua_State* L);
+	static Button* buttonWithFrame(Rect frame);
+	static Button* buttonWithFrame(float frame[4]);
+	static Button* buttonAtPoint(Point point);
+	static Button* buttonAtPoint(float point[2]);
+	
+	void onPress(lua_State* L);	
+	void onRelease(lua_State* L);
+	void onCancel(lua_State* L);
+	
+	bool getEnabled();
+	void setEnabled(bool newValue);
+	
+	void setContentSize(CCSize newSize);
+	
+	void setImage(CCSprite* sprite, string state);
+};

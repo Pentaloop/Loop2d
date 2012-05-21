@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>char-wind-bchar-wind-blowing_00.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {144, 261}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{144, 261}</string>
+			<key>spriteSourceSize</key>
+			<string>{144, 261}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 555}, {261, 144}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>char-wind-bchar-wind-blowing_01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {144, 261}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{144, 261}</string>
+			<key>spriteSourceSize</key>
+			<string>{144, 261}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{789, 475}, {144, 261}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>char-wind-bchar-wind-blowing_02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {144, 261}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{144, 261}</string>
+			<key>spriteSourceSize</key>
+			<string>{144, 261}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 263}, {261, 144}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>char-wind-bchar-wind-blowing_03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {144, 261}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{144, 261}</string>
+			<key>spriteSourceSize</key>
+			<string>{144, 261}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{438, 0}, {261, 144}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>char-wind-bchar-wind-blowing_04.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {144, 261}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{144, 261}</string>
+			<key>spriteSourceSize</key>
+			<string>{144, 261}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{263, 263}, {144, 261}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>char-wind-bchar-wind-blowing_05.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {144, 261}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{144, 261}</string>
+			<key>spriteSourceSize</key>
+			<string>{144, 261}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 409}, {261, 144}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>char-wind-bchar-wind-blowing_06.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {144, 261}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{144, 261}</string>
+			<key>spriteSourceSize</key>
+			<string>{144, 261}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{263, 526}, {261, 144}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>char-wind-bchar-wind-blowing_07.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {144, 261}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{144, 261}</string>
+			<key>spriteSourceSize</key>
+			<string>{144, 261}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{818, 198}, {144, 261}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>char-wind-bchar-wind-blowing_08.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {144, 261}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{144, 261}</string>
+			<key>spriteSourceSize</key>
+			<string>{144, 261}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{672, 212}, {144, 261}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>char-wind-bchar-wind-blowing_09.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {144, 261}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{144, 261}</string>
+			<key>spriteSourceSize</key>
+			<string>{144, 261}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{292, 0}, {144, 261}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>char-wind-bchar-wind-blowing_10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {144, 261}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{144, 261}</string>
+			<key>spriteSourceSize</key>
+			<string>{144, 261}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{146, 0}, {144, 261}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>char-wind-bchar-wind-blowing_11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {144, 261}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{144, 261}</string>
+			<key>spriteSourceSize</key>
+			<string>{144, 261}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{526, 475}, {261, 144}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>char-wind-bchar-wind-blowing_12.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {144, 261}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{144, 261}</string>
+			<key>spriteSourceSize</key>
+			<string>{144, 261}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {144, 261}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>char-wind-bchar-wind-blowing_13.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {144, 261}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{144, 261}</string>
+			<key>spriteSourceSize</key>
+			<string>{144, 261}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{409, 263}, {261, 144}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>front strands for animation_21.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 24}, {259, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{16, -12}</string>
+			<key>spriteSize</key>
+			<string>{259, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{293, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{263, 672}, {259, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>front strands for animation_22.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 24}, {259, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{16, -12}</string>
+			<key>spriteSize</key>
+			<string>{259, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{293, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{261, 738}, {259, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>front strands for animation_23.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 24}, {259, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{16, -12}</string>
+			<key>spriteSize</key>
+			<string>{259, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{293, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{701, 132}, {259, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>front strands for animation_24.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 24}, {259, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{16, -12}</string>
+			<key>spriteSize</key>
+			<string>{259, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{293, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{522, 804}, {259, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>front strands for animation_25.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 24}, {259, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{16, -12}</string>
+			<key>spriteSize</key>
+			<string>{259, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{293, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{261, 804}, {259, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>front strands for animation_26.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 24}, {259, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{16, -12}</string>
+			<key>spriteSize</key>
+			<string>{259, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{293, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{261, 870}, {259, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>front strands for animation_27.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 24}, {259, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{16, -12}</string>
+			<key>spriteSize</key>
+			<string>{259, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{293, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{701, 66}, {259, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>front strands for animation_28.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 24}, {261, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{16, -12}</string>
+			<key>spriteSize</key>
+			<string>{261, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{293, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{409, 409}, {261, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>front strands for animation_29.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 24}, {261, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{16, -12}</string>
+			<key>spriteSize</key>
+			<string>{261, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{293, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{438, 146}, {261, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>front strands for animation_30.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 24}, {261, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{16, -12}</string>
+			<key>spriteSize</key>
+			<string>{261, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{293, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{701, 0}, {261, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>front strands for animation_31.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 24}, {259, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{16, -12}</string>
+			<key>spriteSize</key>
+			<string>{259, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{293, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 767}, {259, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>front strands for animation_32.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 24}, {259, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{16, -12}</string>
+			<key>spriteSize</key>
+			<string>{259, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{293, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{522, 738}, {259, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>front strands for animation_33.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 24}, {259, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{16, -12}</string>
+			<key>spriteSize</key>
+			<string>{259, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{293, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 701}, {259, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>front strands for animation_34.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 24}, {259, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{16, -12}</string>
+			<key>spriteSize</key>
+			<string>{259, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{293, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 833}, {259, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>front strands for animation_35.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 24}, {259, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{16, -12}</string>
+			<key>spriteSize</key>
+			<string>{259, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{293, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{524, 672}, {259, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+		<key>name</key>
+		<string>menuSprites1.zwd</string>
+	</dict>
+</dict>
+</plist>

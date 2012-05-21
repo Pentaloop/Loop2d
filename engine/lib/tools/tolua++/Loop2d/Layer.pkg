@@ -1,0 +1,4 @@
+class Layer : public cocos2d::CCLayer {
+public:
+	static Layer* newLayer();
+};
